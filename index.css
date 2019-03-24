@@ -4,6 +4,12 @@
 	display: block;
 }
 
+.divTeste {
+	background: green;
+	height: 800px;
+	width: 600px;
+}
+
 #id_teste {
 	background: blue;
 	width: 200px;
